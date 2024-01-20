@@ -6,7 +6,7 @@ This repository contains the necessary files for building a basic AI Chatbot pow
 
 ## Files
 
-1. `config.js`: This file contains configuration settings for the chatbot, including the OpenAI API key. To get the process running, make sure to add your OpenAI API key in the `config.js` file.
+`config.js`: This file contains configuration settings for the chatbot, including the OpenAI API key. To get the process running, make sure to add your OpenAI API key in the `config.js` file.
 
 ## Instructions
 
